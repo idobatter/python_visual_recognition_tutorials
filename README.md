@@ -15,4 +15,4 @@ vol.11からスタートした「scikit-learnとscikit-imageで作る人検出�
 
 notebook一覧:
 
-- [01_train_from_normalized_images.ipynb](https://github.com/payashim/python_visual_recognition_tutorials/tree/master/01_pedestrian_detector/notebooks) ：　vol.13「その3. 学習フェーズのスクリプトtrain.pyの作成 前編」
+- [01_train_from_normalized_images.ipynb](http://nbviewer.ipython.org/github/payashim/python_visual_recognition_tutorials/blob/master/01_pedestrian_detector/notebooks/01_train_from_normalized_images.ipynb) ：　vol.13「その3. 学習フェーズのスクリプトtrain.pyの作成 前編」
